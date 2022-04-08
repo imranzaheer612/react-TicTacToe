@@ -1,0 +1,31 @@
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    /* color: green; */
+}
+
+.topMargin {
+    margin-top: 10%;
+}
+
+.btn {
+    font-size:30px
+}
+
+.box {
+    height : 70px;
+    width : 70px;
+    margin : 7px
+}
+
+.status {
+    font-size: 20px;
+    font-weight: bold;
+    width: 70%;
+    margin: auto;
+    padding: 5px;
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
