@@ -23,9 +23,32 @@
 .status {
     font-size: 20px;
     font-weight: bold;
+    text-align: center;
     width: 70%;
     margin: auto;
     padding: 5px;
     padding-bottom: 30px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.game {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.game-info button {
+    margin-bottom: 10px;
+    width: 250px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.game > div {
+    margin: 50px;
+}
+
+ul {
+    list-style-type: none;
 }
